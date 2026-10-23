@@ -1,3 +1,451 @@
+{
+  "schema_version": 1,
+  "product_handle": "salomon-xt-6",
+  "summary": {
+    "count": 60,
+    "average_rating": 5.0,
+    "verified_count": 0,
+    "photo_count": 23,
+    "ratings": {
+      "5": 60,
+      "4": 0,
+      "3": 0,
+      "2": 0,
+      "1": 0
+    }
+  },
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 5,
+      "author": "Sample 01",
+      "body": "Love the XT-6 shape. Sporty without looking too bulky, and easy to wear with jeans.",
+      "date": null,
+      "photo": "https://i.ibb.co/SXh7jvwJ/Whats-App-Image-2026-10-23-at-12-33-45-AM.jpg",
+      "verified": false
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "author": "Sample 02",
+      "body": "These look even better on foot. The details are really nice and the lacing gives them a different feel from my usual trainers.",
+      "date": null,
+      "photo": "https://i.ibb.co/mFBSgRn6/Whats-App-Image-2026-10-23-at-12-33-46-AM-1.jpg",
+      "verified": false
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "author": "Sample 03",
+      "body": "I like how the XT-6 works with simple outfits. A plain tee and trousers and you're good.",
+      "date": null,
+      "photo": "https://i.ibb.co/tw5yMj2V/Whats-App-Image-2026-10-23-at-12-33-46-AM-2.jpg",
+      "verified": false
+    },
+    {
+      "id": 4,
+      "rating": 5,
+      "author": "Sample 04",
+      "body": "Wasn't sure about the design at first but it grew on me fast. Definitely has its own look.",
+      "date": null,
+      "photo": "https://i.ibb.co/ycBrYCXL/Whats-App-Image-2026-10-23-at-12-33-46-AM-3.jpg",
+      "verified": false
+    },
+    {
+      "id": 5,
+      "rating": 5,
+      "author": "Sample 05",
+      "body": "The colour combination is what caught my eye. It's subtle but still stands out.",
+      "date": null,
+      "photo": "https://i.ibb.co/23C4TWt5/Whats-App-Image-2026-10-23-at-12-33-46-AM.jpg",
+      "verified": false
+    },
+    {
+      "id": 6,
+      "rating": 5,
+      "author": "Sample 06",
+      "body": "I've been looking at trail-style sneakers for a while and this silhouette is one of my favourites.",
+      "date": null,
+      "photo": "https://i.ibb.co/23pwBm1R/Whats-App-Image-2026-10-23-at-12-25-26-AM.jpg",
+      "verified": false
+    },
+    {
+      "id": 7,
+      "rating": 5,
+      "author": "Sample 07",
+      "body": "Really like the mix of technical details and everyday style. Not too flashy.",
+      "date": null,
+      "photo": "https://i.ibb.co/95yxqZf/Whats-App-Image-2026-10-23-at-12-25-28-AM-1.jpg",
+      "verified": false
+    },
+    {
+      "id": 8,
+      "rating": 5,
+      "author": "Sample 08",
+      "body": "The quick-lace look is such a nice touch. Makes the whole shoe feel more streamlined.",
+      "date": null,
+      "photo": "https://i.ibb.co/B5ZFcd18/Whats-App-Image-2026-10-23-at-12-25-28-AM-2.jpg",
+      "verified": false
+    },
+    {
+      "id": 9,
+      "rating": 5,
+      "author": "Sample 09",
+      "body": "Chunkier than my old trainers, but in a good way. Looks great with wide-leg trousers.",
+      "date": null,
+      "photo": "https://i.ibb.co/h1HDSNBj/Whats-App-Image-2026-10-23-at-12-25-28-AM-3.jpg",
+      "verified": false
+    },
+    {
+      "id": 10,
+      "rating": 5,
+      "author": "Sample 10",
+      "body": "The XT-6 has that outdoorsy look without feeling out of place in the city.",
+      "date": null,
+      "photo": "https://i.ibb.co/9k9wTwjk/Whats-App-Image-2026-10-23-at-12-25-28-AM-4.jpg",
+      "verified": false
+    },
+    {
+      "id": 11,
+      "rating": 5,
+      "author": "Sample 11",
+      "body": "Love the layered upper. There are lots of little details you don't notice in product photos.",
+      "date": null,
+      "photo": "https://i.ibb.co/HfNCJh4M/Whats-App-Image-2026-10-23-at-12-25-28-AM-5.jpg",
+      "verified": false
+    },
+    {
+      "id": 12,
+      "rating": 5,
+      "author": "Sample 12",
+      "body": "I usually go for minimal sneakers but this design is a fun change.",
+      "date": null,
+      "photo": "https://i.ibb.co/mF9rZbKy/Whats-App-Image-2026-10-23-at-12-25-28-AM-6.jpg",
+      "verified": false
+    },
+    {
+      "id": 13,
+      "rating": 5,
+      "author": "Sample 13",
+      "body": "A really good option if you like that gorpcore style. Easy to build an outfit around.",
+      "date": null,
+      "photo": "https://i.ibb.co/v4snTGfn/Whats-App-Image-2026-10-23-at-12-25-28-AM-7.jpg",
+      "verified": false
+    },
+    {
+      "id": 14,
+      "rating": 5,
+      "author": "Sample 14",
+      "body": "The shape is my favourite part. Sleek from the side and a little more rugged from the front.",
+      "date": null,
+      "photo": "https://i.ibb.co/Sws2FKf4/Whats-App-Image-2026-10-23-at-12-25-28-AM.jpg",
+      "verified": false
+    },
+    {
+      "id": 15,
+      "rating": 5,
+      "author": "Sample 15",
+      "body": "Not your typical everyday sneaker, which is exactly why I like it.",
+      "date": null,
+      "photo": "https://i.ibb.co/27WyJLcV/Whats-App-Image-2026-10-23-at-12-25-29-AM-1.jpg",
+      "verified": false
+    },
+    {
+      "id": 16,
+      "rating": 5,
+      "author": "Sample 16",
+      "body": "The XT-6 looks great with cargos. Probably my favourite way to style it.",
+      "date": null,
+      "photo": "https://i.ibb.co/TqD0vR0Q/Whats-App-Image-2026-10-23-at-12-25-29-AM-2.jpg",
+      "verified": false
+    },
+    {
+      "id": 17,
+      "rating": 5,
+      "author": "Sample 17",
+      "body": "I like that it feels sporty but doesn't look like a running shoe from every angle.",
+      "date": null,
+      "photo": "https://i.ibb.co/F44WnCwr/Whats-App-Image-2026-10-23-at-12-25-29-AM-3.jpg",
+      "verified": false
+    },
+    {
+      "id": 18,
+      "rating": 5,
+      "author": "Sample 18",
+      "body": "The panels and textures make this design interesting without overdoing it.",
+      "date": null,
+      "photo": "https://i.ibb.co/67hgTNB6/Whats-App-Image-2026-10-23-at-12-25-29-AM-4.jpg",
+      "verified": false
+    },
+    {
+      "id": 19,
+      "rating": 5,
+      "author": "Sample 19",
+      "body": "Been seeing this model everywhere lately and I get the appeal. Such a cool silhouette.",
+      "date": null,
+      "photo": "https://i.ibb.co/005G3CX/Whats-App-Image-2026-10-23-at-12-25-29-AM-6.jpg",
+      "verified": false
+    },
+    {
+      "id": 20,
+      "rating": 5,
+      "author": "Sample 20",
+      "body": "The colours work really well together. Looks clean with neutral outfits.",
+      "date": null,
+      "photo": "https://i.ibb.co/zHby2Lyr/Whats-App-Image-2026-10-23-at-12-25-29-AM-7.jpg",
+      "verified": false
+    },
+    {
+      "id": 21,
+      "rating": 5,
+      "author": "Sample 21",
+      "body": "I love shoes that have a bit of character, and these definitely do.",
+      "date": null,
+      "photo": "https://i.ibb.co/Vc8f9R2h/Whats-App-Image-2026-10-23-at-12-25-29-AM-8.jpg",
+      "verified": false
+    },
+    {
+      "id": 22,
+      "rating": 5,
+      "author": "Sample 22",
+      "body": "Nice balance between outdoor-inspired and streetwear. That's what I like about the XT-6.",
+      "date": null,
+      "photo": "https://i.ibb.co/MkkWz692/Whats-App-Image-2026-10-23-at-12-25-30-AM-2.jpg",
+      "verified": false
+    },
+    {
+      "id": 23,
+      "rating": 5,
+      "author": "Sample 23",
+      "body": "The profile is surprisingly versatile. Looks just as good with shorts as with trousers.",
+      "date": null,
+      "photo": "https://i.ibb.co/mCggY9t2/Whats-App-Image-2026-10-23-at-12-25-30-AM.jpg",
+      "verified": false
+    },
+    {
+      "id": 24,
+      "rating": 5,
+      "author": "Sample 24",
+      "body": "Love the overall look, especially the side detailing.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 25,
+      "rating": 5,
+      "author": "Sample 25",
+      "body": "This design makes even a basic outfit feel more put together.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 26,
+      "rating": 5,
+      "author": "Sample 26",
+      "body": "The sporty aesthetic is exactly what I was after.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 27,
+      "rating": 5,
+      "author": "Sample 27",
+      "body": "I like the low-profile shape compared with some really chunky trail sneakers.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 28,
+      "rating": 5,
+      "author": "Sample 28",
+      "body": "A nice alternative to the sneakers everyone else seems to wear.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 29,
+      "rating": 5,
+      "author": "Sample 29",
+      "body": "The layered construction gives it a lot of personality.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 30,
+      "rating": 5,
+      "author": "Sample 30",
+      "body": "I keep coming back to this colourway. It goes with so much.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 31,
+      "rating": 5,
+      "author": "Sample 31",
+      "body": "Clean lines, interesting textures, and a great shape overall.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 32,
+      "rating": 5,
+      "author": "Sample 32",
+      "body": "The XT-6 is one of those designs that looks better the more you see it.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 33,
+      "rating": 5,
+      "author": "Sample 33",
+      "body": "I like how the lacing sits neatly along the front.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 34,
+      "rating": 5,
+      "author": "Sample 34",
+      "body": "Looks really good styled with relaxed-fit denim.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 35,
+      "rating": 5,
+      "author": "Sample 35",
+      "body": "My kind of everyday sneaker: practical-looking but still stylish.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 36,
+      "rating": 5,
+      "author": "Sample 36",
+      "body": "The design is detailed without being loud. Exactly my taste.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 37,
+      "rating": 5,
+      "author": "Sample 37",
+      "body": "Love that slightly technical, outdoorsy vibe.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 38,
+      "rating": 5,
+      "author": "Sample 38",
+      "body": "It has a unique shape that stands out from regular trainers.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 39,
+      "rating": 5,
+      "author": "Sample 39",
+      "body": "The colour palette is easy to match with my wardrobe.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 40,
+      "rating": 5,
+      "author": "Sample 40",
+      "body": "A great-looking silhouette for casual outfits.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 41,
+      "rating": 5,
+      "author": "Sample 41",
+      "body": "I wasn't into trail-inspired shoes before, but the XT-6 changed my mind about the style.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 42,
+      "rating": 5,
+      "author": "Sample 42",
+      "body": "The side profile is so good. That's what sold me on the design.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 43,
+      "rating": 5,
+      "author": "Sample 43",
+      "body": "Sporty and understated at the same time. Really nice combination.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 44,
+      "rating": 5,
+      "author": "Sample 44",
+      "body": "I like the mix of mesh and structured panels on this model.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 45,
+      "rating": 5,
+      "author": "Sample 45",
+      "body": "Looks especially good with oversized trousers and a simple jacket.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 46,
+      "rating": 5,
+      "author": "Sample 46",
+      "body": "The detailing feels thoughtful. Nothing looks out of place.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 47,
+      "rating": 5,
+      "author": "Sample 47",
+      "body": "Definitely a statement sneaker, but not in an over-the-top way.",
+      "date": null,
+      "photo": null,
+      "verified": false
+    },
+    {
+      "id": 48,
+      "rating": 5,
+      "author": "Sample 48",
+      "body": "I like the shape and the way the colours break up the upper.",
+      "date": null,
+      "photo": null,
+      "verified": false
     },
     {
       "id": 49,
